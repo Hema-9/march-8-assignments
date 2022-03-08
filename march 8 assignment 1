@@ -1,0 +1,14 @@
+code:
+s=input()
+s=s.lower()
+l=list(s)
+count=0
+for i in l:
+    if((i!='a') and (i!='e') and (i!='i') and (i!='o') and (i!='u')):
+        count+=1
+print(count)        
+out put:
+dgfytjyreeweopq
+11
+tewols
+4
