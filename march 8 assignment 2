@@ -1,0 +1,13 @@
+code:
+s1=input().split()
+s2=input().split()
+for i in s1:
+    for j in s2:
+         print(i,j)        
+out put:
+hema
+sri
+hema sri
+frgt
+gty
+frgt gty
